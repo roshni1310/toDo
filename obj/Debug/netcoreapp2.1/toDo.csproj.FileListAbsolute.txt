@@ -1,0 +1,14 @@
+C:\Users\RoShNi\source\repos\toDo\toDo\bin\Debug\netcoreapp2.1\toDo.deps.json
+C:\Users\RoShNi\source\repos\toDo\toDo\bin\Debug\netcoreapp2.1\toDo.runtimeconfig.json
+C:\Users\RoShNi\source\repos\toDo\toDo\bin\Debug\netcoreapp2.1\toDo.runtimeconfig.dev.json
+C:\Users\RoShNi\source\repos\toDo\toDo\bin\Debug\netcoreapp2.1\toDo.dll
+C:\Users\RoShNi\source\repos\toDo\toDo\bin\Debug\netcoreapp2.1\toDo.pdb
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.csprojAssemblyReference.cache
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.csproj.CoreCompileInputs.cache
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.RazorAssemblyInfo.cache
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.RazorAssemblyInfo.cs
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.AssemblyInfoInputs.cache
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.AssemblyInfo.cs
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.RazorTargetAssemblyInfo.cache
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.dll
+C:\Users\RoShNi\source\repos\toDo\toDo\obj\Debug\netcoreapp2.1\toDo.pdb
